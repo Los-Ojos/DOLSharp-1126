@@ -115,7 +115,7 @@ namespace DOL.GS.ServerRules
     /// <summary>
     /// Set of rules for ThidrankiClassic "RvR" server type.
     /// </summary>
-    [ServerRules(eGameServerType.GST_Normal)]
+    [ServerRules(eGameServerType.GST_Test)]
     public class TCServerRules : NormalServerRules
     {
         #region configuration flags
