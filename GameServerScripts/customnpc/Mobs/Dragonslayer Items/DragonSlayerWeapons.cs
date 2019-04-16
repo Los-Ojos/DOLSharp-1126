@@ -564,7 +564,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerBlade.SPD_ABS = 42;
                     ArmsmanDragonslayerBlade.Object_Type = 35;
                     ArmsmanDragonslayerBlade.Quality = 100;
-                    ArmsmanDragonslayerBlade.Price = 2500;
+                    ArmsmanDragonslayerBlade.Price = 3500;
                     ArmsmanDragonslayerBlade.Weight = 25;
                     ArmsmanDragonslayerBlade.Bonus = 35;
                     ArmsmanDragonslayerBlade.MaxCondition = 50000;
@@ -609,7 +609,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerEdge.DPS_AF = 165;
                     ArmsmanDragonslayerEdge.SPD_ABS = 42;
                     ArmsmanDragonslayerEdge.Object_Type = 4;
-                    ArmsmanDragonslayerEdge.Price = 2500;
+                    ArmsmanDragonslayerEdge.Price = 3500;
                     ArmsmanDragonslayerEdge.Quality = 100;
                     ArmsmanDragonslayerEdge.IsTradable = false;
                     ArmsmanDragonslayerEdge.Weight = 25;
@@ -652,7 +652,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerMace.Type_Damage = 1;
                     ArmsmanDragonslayerMace.DPS_AF = 165;
                     ArmsmanDragonslayerMace.SPD_ABS = 42;
-                    ArmsmanDragonslayerMace.Price = 2500;
+                    ArmsmanDragonslayerMace.Price = 3500;
                     ArmsmanDragonslayerMace.Object_Type = 2;
                     ArmsmanDragonslayerMace.Quality = 100;
                     ArmsmanDragonslayerMace.IsTradable = false;
@@ -696,7 +696,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerArchMace.IsPickable = true;
                     ArmsmanDragonslayerArchMace.Type_Damage = 1;
                     ArmsmanDragonslayerArchMace.DPS_AF = 165;
-                    ArmsmanDragonslayerArchMace.Price = 2500;
+                    ArmsmanDragonslayerArchMace.Price = 3500;
                     ArmsmanDragonslayerArchMace.SPD_ABS = 42;
                     ArmsmanDragonslayerArchMace.Object_Type = 6;
                     ArmsmanDragonslayerArchMace.Quality = 100;
@@ -741,7 +741,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerFlamberge.DPS_AF = 165;
                     ArmsmanDragonslayerFlamberge.SPD_ABS = 56;
                     ArmsmanDragonslayerFlamberge.Object_Type = 6;
-                    ArmsmanDragonslayerFlamberge.Price = 2500;
+                    ArmsmanDragonslayerFlamberge.Price = 3500;
                     ArmsmanDragonslayerFlamberge.Quality = 100;
                     ArmsmanDragonslayerFlamberge.IsTradable = false;
                     ArmsmanDragonslayerFlamberge.Weight = 25;
@@ -782,7 +782,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerHalberd.IsPickable = true;
                     ArmsmanDragonslayerHalberd.Type_Damage = 2;
                     ArmsmanDragonslayerHalberd.DPS_AF = 165;
-                    ArmsmanDragonslayerHalberd.Price = 2500;
+                    ArmsmanDragonslayerHalberd.Price = 3500;
                     ArmsmanDragonslayerHalberd.SPD_ABS = 58;
                     ArmsmanDragonslayerHalberd.Object_Type = 7;
                     ArmsmanDragonslayerHalberd.Quality = 100;
@@ -826,7 +826,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerLance.Type_Damage = 3;
                     ArmsmanDragonslayerLance.DPS_AF = 165;
                     ArmsmanDragonslayerLance.SPD_ABS = 56;
-                    ArmsmanDragonslayerLance.Price = 2500;
+                    ArmsmanDragonslayerLance.Price = 3500;
                     ArmsmanDragonslayerLance.Object_Type = 6;
                     ArmsmanDragonslayerLance.Quality = 100;
                     ArmsmanDragonslayerLance.IsTradable = false;
@@ -869,7 +869,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerPike.Type_Damage = 3;
                     ArmsmanDragonslayerPike.DPS_AF = 165;
                     ArmsmanDragonslayerPike.SPD_ABS = 58;
-                    ArmsmanDragonslayerPike.Price = 2500;
+                    ArmsmanDragonslayerPike.Price = 3500;
                     ArmsmanDragonslayerPike.Object_Type = 7;
                     ArmsmanDragonslayerPike.Quality = 100;
                     ArmsmanDragonslayerPike.IsTradable = false;
@@ -910,7 +910,7 @@ namespace DOL.GS.Items
                     ArmsmanDragonslayerMattock.IsDropable = true;
                     ArmsmanDragonslayerMattock.IsPickable = true;
                     ArmsmanDragonslayerMattock.Type_Damage = 1;
-                    ArmsmanDragonslayerMattock.Price = 2500;
+                    ArmsmanDragonslayerMattock.Price = 3500;
                     ArmsmanDragonslayerMattock.DPS_AF = 165;
                     ArmsmanDragonslayerMattock.SPD_ABS = 58;
                     ArmsmanDragonslayerMattock.Object_Type = 7;
@@ -954,7 +954,7 @@ namespace DOL.GS.Items
                     FriarDragonslayerQuarterStaff.IsPickable = true;
                     FriarDragonslayerQuarterStaff.Type_Damage = 1;
                     FriarDragonslayerQuarterStaff.DPS_AF = 165;
-                    FriarDragonslayerQuarterStaff.Price = 2500;
+                    FriarDragonslayerQuarterStaff.Price = 3500;
                     FriarDragonslayerQuarterStaff.SPD_ABS = 35;
                     FriarDragonslayerQuarterStaff.Object_Type = 8;
                     FriarDragonslayerQuarterStaff.Quality = 100;
@@ -1003,7 +1003,7 @@ namespace DOL.GS.Items
                     DragonslayerCabalistStaff.IsPickable = true;
                     DragonslayerCabalistStaff.Type_Damage = 1;
                     DragonslayerCabalistStaff.DPS_AF = 165;
-                    DragonslayerCabalistStaff.Price = 2500;
+                    DragonslayerCabalistStaff.Price = 3500;
                     DragonslayerCabalistStaff.SPD_ABS = 50;
                     DragonslayerCabalistStaff.Object_Type = 8;
                     DragonslayerCabalistStaff.Quality = 100;
@@ -1054,7 +1054,7 @@ namespace DOL.GS.Items
                     DragonslayerNecromancerStaff.DPS_AF = 165;
                     DragonslayerNecromancerStaff.SPD_ABS = 50;
                     DragonslayerNecromancerStaff.Object_Type = 8;
-                    DragonslayerNecromancerStaff.Price = 2500;
+                    DragonslayerNecromancerStaff.Price = 3500;
                     DragonslayerNecromancerStaff.Quality = 100;
                     DragonslayerNecromancerStaff.IsTradable = false;
                     DragonslayerNecromancerStaff.Weight = 25;
@@ -1097,7 +1097,7 @@ namespace DOL.GS.Items
                     DragonslayerSorcererStaff.IsDropable = true;
                     DragonslayerSorcererStaff.IsPickable = true;
                     DragonslayerSorcererStaff.Type_Damage = 1;
-                    DragonslayerSorcererStaff.Price = 2500;
+                    DragonslayerSorcererStaff.Price = 3500;
                     DragonslayerSorcererStaff.DPS_AF = 165;
                     DragonslayerSorcererStaff.SPD_ABS = 50;
                     DragonslayerSorcererStaff.Object_Type = 8;
@@ -1152,7 +1152,7 @@ namespace DOL.GS.Items
                     DragonslayerTheurgistStaff.Quality = 100;
                     DragonslayerTheurgistStaff.IsTradable = false;
                     DragonslayerTheurgistStaff.Weight = 25;
-                    DragonslayerTheurgistStaff.Price = 2500;
+                    DragonslayerTheurgistStaff.Price = 3500;
                     DragonslayerTheurgistStaff.Bonus = 35;
                     DragonslayerTheurgistStaff.MaxCondition = 50000;
                     DragonslayerTheurgistStaff.MaxDurability = 50000;
@@ -1199,7 +1199,7 @@ namespace DOL.GS.Items
                     DragonslayerWizardStaff.SPD_ABS = 50;
                     DragonslayerWizardStaff.Object_Type = 8;
                     DragonslayerWizardStaff.Quality = 100;
-                    DragonslayerWizardStaff.Price = 2500;
+                    DragonslayerWizardStaff.Price = 3500;
                     DragonslayerWizardStaff.IsTradable = false;
                     DragonslayerWizardStaff.Weight = 25;
                     DragonslayerWizardStaff.Bonus = 35;
@@ -1246,7 +1246,7 @@ namespace DOL.GS.Items
                     DragonslayerBonedancerStaff.Type_Damage = 1;
                     DragonslayerBonedancerStaff.DPS_AF = 165;
                     DragonslayerBonedancerStaff.SPD_ABS = 50;
-                    DragonslayerBonedancerStaff.Price = 2500;
+                    DragonslayerBonedancerStaff.Price = 3500;
                     DragonslayerBonedancerStaff.Object_Type = 8;
                     DragonslayerBonedancerStaff.Quality = 100;
                     DragonslayerBonedancerStaff.IsTradable = false;
@@ -1293,7 +1293,7 @@ namespace DOL.GS.Items
                     DragonslayerRunemasterStaff.IsDropable = true;
                     DragonslayerRunemasterStaff.IsPickable = true;
                     DragonslayerRunemasterStaff.Type_Damage = 1;
-                    DragonslayerRunemasterStaff.Price = 2500;
+                    DragonslayerRunemasterStaff.Price = 3500;
                     DragonslayerRunemasterStaff.DPS_AF = 165;
                     DragonslayerRunemasterStaff.SPD_ABS = 50;
                     DragonslayerRunemasterStaff.Object_Type = 8;
@@ -1345,7 +1345,7 @@ namespace DOL.GS.Items
                     DragonslayerSpiritmasterStaff.DPS_AF = 165;
                     DragonslayerSpiritmasterStaff.SPD_ABS = 50;
                     DragonslayerSpiritmasterStaff.Object_Type = 8;
-                    DragonslayerSpiritmasterStaff.Price = 2500;
+                    DragonslayerSpiritmasterStaff.Price = 3500;
                     DragonslayerSpiritmasterStaff.Quality = 100;
                     DragonslayerSpiritmasterStaff.IsTradable = false;
                     DragonslayerSpiritmasterStaff.Weight = 25;
@@ -1392,7 +1392,7 @@ namespace DOL.GS.Items
                     DragonslayerWarlockStaff.IsPickable = true;
                     DragonslayerWarlockStaff.Type_Damage = 1;
                     DragonslayerWarlockStaff.DPS_AF = 165;
-                    DragonslayerWarlockStaff.Price = 2500;
+                    DragonslayerWarlockStaff.Price = 3500;
                     DragonslayerWarlockStaff.SPD_ABS = 50;
                     DragonslayerWarlockStaff.Object_Type = 8;
                     DragonslayerWarlockStaff.Quality = 100;
@@ -1446,7 +1446,7 @@ namespace DOL.GS.Items
                     DragonslayerAnimistStaff.Quality = 100;
                     DragonslayerAnimistStaff.IsTradable = false;
                     DragonslayerAnimistStaff.Weight = 25;
-                    DragonslayerAnimistStaff.Price = 2500;
+                    DragonslayerAnimistStaff.Price = 3500;
                     DragonslayerAnimistStaff.Bonus = 35;
                     DragonslayerAnimistStaff.MaxCondition = 50000;
                     DragonslayerAnimistStaff.MaxDurability = 50000;
@@ -1491,7 +1491,7 @@ namespace DOL.GS.Items
                     DragonslayerBainsheeStaff.Type_Damage = 1;
                     DragonslayerBainsheeStaff.DPS_AF = 165;
                     DragonslayerBainsheeStaff.SPD_ABS = 50;
-                    DragonslayerBainsheeStaff.Price = 2500;
+                    DragonslayerBainsheeStaff.Price = 3500;
                     DragonslayerBainsheeStaff.Object_Type = 8;
                     DragonslayerBainsheeStaff.Quality = 100;
                     DragonslayerBainsheeStaff.IsTradable = false;
@@ -1542,7 +1542,7 @@ namespace DOL.GS.Items
                     DragonslayerEldritchStaff.SPD_ABS = 50;
                     DragonslayerEldritchStaff.Object_Type = 8;
                     DragonslayerEldritchStaff.Quality = 100;
-                    DragonslayerEldritchStaff.Price = 2500;
+                    DragonslayerEldritchStaff.Price = 3500;
                     DragonslayerEldritchStaff.IsTradable = false;
                     DragonslayerEldritchStaff.Weight = 25;
                     DragonslayerEldritchStaff.Bonus = 35;
@@ -1594,7 +1594,7 @@ namespace DOL.GS.Items
                     DragonslayerEnchanterStaff.IsTradable = false;
                     DragonslayerEnchanterStaff.Weight = 25;
                     DragonslayerEnchanterStaff.Bonus = 35;
-                    DragonslayerEnchanterStaff.Price = 2500;
+                    DragonslayerEnchanterStaff.Price = 3500;
                     DragonslayerEnchanterStaff.MaxCondition = 50000;
                     DragonslayerEnchanterStaff.MaxDurability = 50000;
                     DragonslayerEnchanterStaff.Condition = 50000;
@@ -1642,7 +1642,7 @@ namespace DOL.GS.Items
                     DragonslayerMentalistStaff.Quality = 100;
                     DragonslayerMentalistStaff.IsTradable = false;
                     DragonslayerMentalistStaff.Weight = 25;
-                    DragonslayerMentalistStaff.Price = 2500;
+                    DragonslayerMentalistStaff.Price = 3500;
                     DragonslayerMentalistStaff.Bonus = 35;
                     DragonslayerMentalistStaff.MaxCondition = 50000;
                     DragonslayerMentalistStaff.MaxDurability = 50000;
@@ -1686,7 +1686,7 @@ namespace DOL.GS.Items
                     DragonslayerWarriorAxe.Type_Damage = 2;
                     DragonslayerWarriorAxe.DPS_AF = 165;
                     DragonslayerWarriorAxe.SPD_ABS = 43;
-                    DragonslayerWarriorAxe.Price = 2500;
+                    DragonslayerWarriorAxe.Price = 3500;
                     DragonslayerWarriorAxe.Object_Type = 13;
                     DragonslayerWarriorAxe.Quality = 100;
                     DragonslayerWarriorAxe.IsTradable = false;
@@ -1733,7 +1733,7 @@ namespace DOL.GS.Items
                     DragonslayerWarriorTwohandedAxe.SPD_ABS = 57;
                     DragonslayerWarriorTwohandedAxe.Object_Type = 13;
                     DragonslayerWarriorTwohandedAxe.Quality = 100;
-                    DragonslayerWarriorTwohandedAxe.Price = 2500;
+                    DragonslayerWarriorTwohandedAxe.Price = 3500;
                     DragonslayerWarriorTwohandedAxe.IsTradable = false;
                     DragonslayerWarriorTwohandedAxe.Weight = 25;
                     DragonslayerWarriorTwohandedAxe.Bonus = 35;
@@ -1779,7 +1779,7 @@ namespace DOL.GS.Items
                     DragonslayerWarriorSword.Quality = 100;
                     DragonslayerWarriorSword.IsTradable = false;
                     DragonslayerWarriorSword.Weight = 25;
-                    DragonslayerWarriorSword.Price = 2500;
+                    DragonslayerWarriorSword.Price = 3500;
                     DragonslayerWarriorSword.Bonus = 35;
                     DragonslayerWarriorSword.MaxCondition = 50000;
                     DragonslayerWarriorSword.MaxDurability = 50000;
@@ -1821,7 +1821,7 @@ namespace DOL.GS.Items
                     DragonslayerWarriorTwohandedSword.DPS_AF = 165;
                     DragonslayerWarriorTwohandedSword.SPD_ABS = 57;
                     DragonslayerWarriorTwohandedSword.Object_Type = 11;
-                    DragonslayerWarriorTwohandedSword.Price = 2500;
+                    DragonslayerWarriorTwohandedSword.Price = 3500;
                     DragonslayerWarriorTwohandedSword.Quality = 100;
                     DragonslayerWarriorTwohandedSword.IsTradable = false;
                     DragonslayerWarriorTwohandedSword.Weight = 25;
@@ -1864,7 +1864,7 @@ namespace DOL.GS.Items
                     DragonslayerWarriorHammer.Type_Damage = 1;
                     DragonslayerWarriorHammer.DPS_AF = 165;
                     DragonslayerWarriorHammer.SPD_ABS = 43;
-                    DragonslayerWarriorHammer.Price = 2500;
+                    DragonslayerWarriorHammer.Price = 3500;
                     DragonslayerWarriorHammer.Object_Type = 12;
                     DragonslayerWarriorHammer.Quality = 100;
                     DragonslayerWarriorHammer.IsTradable = false;
@@ -1913,7 +1913,7 @@ namespace DOL.GS.Items
                     DragonslayerWarriorTwohandedHammer.Quality = 100;
                     DragonslayerWarriorTwohandedHammer.IsTradable = false;
                     DragonslayerWarriorTwohandedHammer.Weight = 25;
-                    DragonslayerWarriorTwohandedHammer.Price = 2500;
+                    DragonslayerWarriorTwohandedHammer.Price = 3500;
                     DragonslayerWarriorTwohandedHammer.Bonus = 35;
                     DragonslayerWarriorTwohandedHammer.MaxCondition = 50000;
                     DragonslayerWarriorTwohandedHammer.MaxDurability = 50000;
@@ -1955,7 +1955,7 @@ namespace DOL.GS.Items
                     ClericDragonslayerMace.SPD_ABS = 42;
                     ClericDragonslayerMace.Object_Type = 2;
                     ClericDragonslayerMace.Quality = 100;
-                    ClericDragonslayerMace.Price = 2500;
+                    ClericDragonslayerMace.Price = 3500;
                     ClericDragonslayerMace.IsTradable = false;
                     ClericDragonslayerMace.Weight = 25;
                     ClericDragonslayerMace.Bonus = 35;
@@ -2001,7 +2001,7 @@ namespace DOL.GS.Items
                     FriarDragonslayerMace.SPD_ABS = 40;
                     FriarDragonslayerMace.Object_Type = 2;
                     FriarDragonslayerMace.Quality = 100;
-                    FriarDragonslayerMace.Price = 2500;
+                    FriarDragonslayerMace.Price = 3500;
                     FriarDragonslayerMace.IsTradable = false;
                     FriarDragonslayerMace.Weight = 25;
                     FriarDragonslayerMace.Bonus = 35;
@@ -2044,7 +2044,7 @@ namespace DOL.GS.Items
                     DragonslayerValewalkerScythe.IsDropable = true;
                     DragonslayerValewalkerScythe.IsPickable = true;
                     DragonslayerValewalkerScythe.Type_Damage = 2;
-                    DragonslayerValewalkerScythe.Price = 2500;
+                    DragonslayerValewalkerScythe.Price = 3500;
                     DragonslayerValewalkerScythe.DPS_AF = 165;
                     DragonslayerValewalkerScythe.SPD_ABS = 55;
                     DragonslayerValewalkerScythe.Object_Type = 26;
@@ -2088,7 +2088,7 @@ namespace DOL.GS.Items
                     VampiirDragonslayerFuarSteel.SPD_ABS = 42;
                     VampiirDragonslayerFuarSteel.Object_Type = 21;
                     VampiirDragonslayerFuarSteel.Quality = 100;
-                    VampiirDragonslayerFuarSteel.Price = 2500;
+                    VampiirDragonslayerFuarSteel.Price = 3500;
                     VampiirDragonslayerFuarSteel.IsTradable = false;
                     VampiirDragonslayerFuarSteel.Weight = 25;
                     VampiirDragonslayerFuarSteel.Bonus = 35;
@@ -2128,7 +2128,7 @@ namespace DOL.GS.Items
                     DragonslayerValkyrieSword.Type_Damage = 2;
                     DragonslayerValkyrieSword.DPS_AF = 165;
                     DragonslayerValkyrieSword.SPD_ABS = 43;
-                    DragonslayerValkyrieSword.Price = 2500;
+                    DragonslayerValkyrieSword.Price = 3500;
                     DragonslayerValkyrieSword.Object_Type = 11;
                     DragonslayerValkyrieSword.Quality = 100;
                     DragonslayerValkyrieSword.IsTradable = false;
@@ -2173,7 +2173,7 @@ namespace DOL.GS.Items
                     DragonslayerValkyrieTwohandedSword.SPD_ABS = 43;
                     DragonslayerValkyrieTwohandedSword.Object_Type = 11;
                     DragonslayerValkyrieTwohandedSword.Quality = 100;
-                    DragonslayerValkyrieTwohandedSword.Price = 2500;
+                    DragonslayerValkyrieTwohandedSword.Price = 3500;
                     DragonslayerValkyrieTwohandedSword.IsTradable = false;
                     DragonslayerValkyrieTwohandedSword.Weight = 25;
                     DragonslayerValkyrieTwohandedSword.Bonus = 35;
@@ -2222,7 +2222,7 @@ namespace DOL.GS.Items
                     DragonslayerValkyrieSlashingSpear.MaxCondition = 50000;
                     DragonslayerValkyrieSlashingSpear.MaxDurability = 50000;
                     DragonslayerValkyrieSlashingSpear.Condition = 50000;
-                    DragonslayerValkyrieSlashingSpear.Price = 2500;
+                    DragonslayerValkyrieSlashingSpear.Price = 3500;
                     DragonslayerValkyrieSlashingSpear.Durability = 50000;
                     DragonslayerValkyrieSlashingSpear.Bonus1 = 4;
                     DragonslayerValkyrieSlashingSpear.Bonus1Type = (int)eProperty.Skill_Spear;
@@ -2258,7 +2258,7 @@ namespace DOL.GS.Items
                     DragonslayerValkyrieThrustingSpear.IsPickable = true;
                     DragonslayerValkyrieThrustingSpear.Type_Damage = 3;
                     DragonslayerValkyrieThrustingSpear.DPS_AF = 165;
-                    DragonslayerValkyrieThrustingSpear.Price = 2500;
+                    DragonslayerValkyrieThrustingSpear.Price = 3500;
                     DragonslayerValkyrieThrustingSpear.SPD_ABS = 43;
                     DragonslayerValkyrieThrustingSpear.Object_Type = 14;
                     DragonslayerValkyrieThrustingSpear.Quality = 100;
@@ -2302,7 +2302,7 @@ namespace DOL.GS.Items
                     DragonslayerHealerHammer.IsPickable = true;
                     DragonslayerHealerHammer.Type_Damage = 1;
                     DragonslayerHealerHammer.DPS_AF = 165;
-                    DragonslayerHealerHammer.Price = 2500;
+                    DragonslayerHealerHammer.Price = 3500;
                     DragonslayerHealerHammer.SPD_ABS = 43;
                     DragonslayerHealerHammer.Object_Type = 12;
                     DragonslayerHealerHammer.Quality = 100;
@@ -2350,7 +2350,7 @@ namespace DOL.GS.Items
                     DragonslayerHealerTwohandedHammer.Type_Damage = 1;
                     DragonslayerHealerTwohandedHammer.DPS_AF = 165;
                     DragonslayerHealerTwohandedHammer.SPD_ABS = 57;
-                    DragonslayerHealerTwohandedHammer.Price = 2500;
+                    DragonslayerHealerTwohandedHammer.Price = 3500;
                     DragonslayerHealerTwohandedHammer.Object_Type = 12;
                     DragonslayerHealerTwohandedHammer.Quality = 100;
                     DragonslayerHealerTwohandedHammer.IsTradable = false;
@@ -2395,7 +2395,7 @@ namespace DOL.GS.Items
                     DragonslayerShamanHammer.IsPickable = true;
                     DragonslayerShamanHammer.Type_Damage = 1;
                     DragonslayerShamanHammer.DPS_AF = 165;
-                    DragonslayerShamanHammer.Price = 2500;
+                    DragonslayerShamanHammer.Price = 3500;
                     DragonslayerShamanHammer.SPD_ABS = 43;
                     DragonslayerShamanHammer.Object_Type = 12;
                     DragonslayerShamanHammer.Quality = 100;
@@ -2443,7 +2443,7 @@ namespace DOL.GS.Items
                     DragonslayerShamanTwohandedHammer.Type_Damage = 1;
                     DragonslayerShamanTwohandedHammer.DPS_AF = 165;
                     DragonslayerShamanTwohandedHammer.SPD_ABS = 57;
-                    DragonslayerShamanTwohandedHammer.Price = 2500;
+                    DragonslayerShamanTwohandedHammer.Price = 3500;
                     DragonslayerShamanTwohandedHammer.Object_Type = 12;
                     DragonslayerShamanTwohandedHammer.Quality = 100;
                     DragonslayerShamanTwohandedHammer.IsTradable = false;
@@ -2489,7 +2489,7 @@ namespace DOL.GS.Items
                     HereticDragonslayerBarbedChain.Type_Damage = 2;
                     HereticDragonslayerBarbedChain.DPS_AF = 165;
                     HereticDragonslayerBarbedChain.SPD_ABS = 35;
-                    HereticDragonslayerBarbedChain.Price = 2500;
+                    HereticDragonslayerBarbedChain.Price = 3500;
                     HereticDragonslayerBarbedChain.Object_Type = 24;
                     HereticDragonslayerBarbedChain.Quality = 100;
                     HereticDragonslayerBarbedChain.IsTradable = false;
@@ -2531,7 +2531,7 @@ namespace DOL.GS.Items
                     HereticDragonslayerFlail.Type_Damage = 1;
                     HereticDragonslayerFlail.DPS_AF = 165;
                     HereticDragonslayerFlail.SPD_ABS = 35;
-                    HereticDragonslayerFlail.Price = 2500;
+                    HereticDragonslayerFlail.Price = 3500;
                     HereticDragonslayerFlail.Object_Type = 24;
                     HereticDragonslayerFlail.Quality = 100;
                     HereticDragonslayerFlail.IsTradable = false;
@@ -2577,7 +2577,7 @@ namespace DOL.GS.Items
                     HereticDragonslayerMace.SPD_ABS = 42;
                     HereticDragonslayerMace.Object_Type = 2;
                     HereticDragonslayerMace.Quality = 100;
-                    HereticDragonslayerMace.Price = 2500;
+                    HereticDragonslayerMace.Price = 3500;
                     HereticDragonslayerMace.IsTradable = false;
                     HereticDragonslayerMace.Weight = 25;
                     HereticDragonslayerMace.Bonus = 35;
@@ -2619,7 +2619,7 @@ namespace DOL.GS.Items
                     ReaverDragonslayerBlade.Type_Damage = 1;
                     ReaverDragonslayerBlade.DPS_AF = 165;
                     ReaverDragonslayerBlade.SPD_ABS = 42;
-                    ReaverDragonslayerBlade.Price = 2500;
+                    ReaverDragonslayerBlade.Price = 3500;
                     ReaverDragonslayerBlade.Object_Type = 2;
                     ReaverDragonslayerBlade.Quality = 100;
                     ReaverDragonslayerBlade.IsTradable = false;
@@ -2664,7 +2664,7 @@ namespace DOL.GS.Items
                     ReaverDragonslayerEdge.DPS_AF = 165;
                     ReaverDragonslayerEdge.SPD_ABS = 42;
                     ReaverDragonslayerEdge.Object_Type = 4;
-                    ReaverDragonslayerEdge.Price = 2500;
+                    ReaverDragonslayerEdge.Price = 3500;
                     ReaverDragonslayerEdge.Quality = 100;
                     ReaverDragonslayerEdge.IsTradable = false;
                     ReaverDragonslayerEdge.Weight = 25;
@@ -2708,7 +2708,7 @@ namespace DOL.GS.Items
                     ReaverDragonslayerMace.IsPickable = true;
                     ReaverDragonslayerMace.Type_Damage = 1;
                     ReaverDragonslayerMace.DPS_AF = 165;
-                    ReaverDragonslayerMace.Price = 2500;
+                    ReaverDragonslayerMace.Price = 3500;
                     ReaverDragonslayerMace.SPD_ABS = 42;
                     ReaverDragonslayerMace.Object_Type = 2;
                     ReaverDragonslayerMace.Quality = 100;
@@ -2755,7 +2755,7 @@ namespace DOL.GS.Items
                     ReaverDragonslayerBarbedChain.SPD_ABS = 35;
                     ReaverDragonslayerBarbedChain.Object_Type = 24;
                     ReaverDragonslayerBarbedChain.Quality = 100;
-                    ReaverDragonslayerBarbedChain.Price = 2500;
+                    ReaverDragonslayerBarbedChain.Price = 3500;
                     ReaverDragonslayerBarbedChain.IsTradable = false;
                     ReaverDragonslayerBarbedChain.Weight = 25;
                     ReaverDragonslayerBarbedChain.Bonus = 35;
@@ -2803,7 +2803,7 @@ namespace DOL.GS.Items
                     ReaverDragonslayerFlail.Quality = 100;
                     ReaverDragonslayerFlail.IsTradable = false;
                     ReaverDragonslayerFlail.Weight = 25;
-                    ReaverDragonslayerFlail.Price = 2500;
+                    ReaverDragonslayerFlail.Price = 3500;
                     ReaverDragonslayerFlail.Bonus = 35;
                     ReaverDragonslayerFlail.MaxCondition = 50000;
                     ReaverDragonslayerFlail.MaxDurability = 50000;
@@ -2844,7 +2844,7 @@ namespace DOL.GS.Items
                     DragonslayerBardHammer.IsPickable = true;
                     DragonslayerBardHammer.Type_Damage = 1;
                     DragonslayerBardHammer.DPS_AF = 165;
-                    DragonslayerBardHammer.Price = 2500;
+                    DragonslayerBardHammer.Price = 3500;
                     DragonslayerBardHammer.SPD_ABS = 42;
                     DragonslayerBardHammer.Object_Type = 20;
                     DragonslayerBardHammer.Quality = 100;
@@ -2889,7 +2889,7 @@ namespace DOL.GS.Items
                     DragonslayerBardBlade.Type_Damage = 2;
                     DragonslayerBardBlade.DPS_AF = 165;
                     DragonslayerBardBlade.SPD_ABS = 42;
-                    DragonslayerBardBlade.Price = 2500;
+                    DragonslayerBardBlade.Price = 3500;
                     DragonslayerBardBlade.Object_Type = 19;
                     DragonslayerBardBlade.Quality = 100;
                     DragonslayerBardBlade.IsTradable = false;
@@ -2937,7 +2937,7 @@ namespace DOL.GS.Items
                     DragonslayerBardHarp.Item_Type = 13;
                     DragonslayerBardHarp.Weight = 20;
                     DragonslayerBardHarp.Model = 3908;
-                    DragonslayerBardHarp.Price = 2500;
+                    DragonslayerBardHarp.Price = 3500;
                     DragonslayerBardHarp.Bonus = 35;
                     DragonslayerBardHarp.Bonus1 = 15;
                     DragonslayerBardHarp.Bonus2 = 15;
@@ -2988,7 +2988,7 @@ namespace DOL.GS.Items
                     DragonslayerDruidBlade.Type_Damage = 2;
                     DragonslayerDruidBlade.DPS_AF = 165;
                     DragonslayerDruidBlade.SPD_ABS = 42;
-                    DragonslayerDruidBlade.Price = 2500;
+                    DragonslayerDruidBlade.Price = 3500;
                     DragonslayerDruidBlade.Object_Type = 19;
                     DragonslayerDruidBlade.Quality = 100;
                     DragonslayerDruidBlade.IsTradable = false;
@@ -3038,7 +3038,7 @@ namespace DOL.GS.Items
                     DragonslayerDruidHammer.Quality = 100;
                     DragonslayerDruidHammer.IsTradable = false;
                     DragonslayerDruidHammer.Weight = 25;
-                    DragonslayerDruidHammer.Price = 2500;
+                    DragonslayerDruidHammer.Price = 3500;
                     DragonslayerDruidHammer.Bonus = 35;
                     DragonslayerDruidHammer.MaxCondition = 50000;
                     DragonslayerDruidHammer.MaxDurability = 50000;
@@ -3081,7 +3081,7 @@ namespace DOL.GS.Items
                     DragonslayerWardenBlade.DPS_AF = 165;
                     DragonslayerWardenBlade.SPD_ABS = 42;
                     DragonslayerWardenBlade.Object_Type = 19;
-                    DragonslayerWardenBlade.Price = 2500;
+                    DragonslayerWardenBlade.Price = 3500;
                     DragonslayerWardenBlade.Quality = 100;
                     DragonslayerWardenBlade.IsTradable = false;
                     DragonslayerWardenBlade.Weight = 25;
@@ -3126,7 +3126,7 @@ namespace DOL.GS.Items
                     DragonslayerWardenHammer.Type_Damage = 1;
                     DragonslayerWardenHammer.DPS_AF = 165;
                     DragonslayerWardenHammer.SPD_ABS = 42;
-                    DragonslayerWardenHammer.Price = 2500;
+                    DragonslayerWardenHammer.Price = 3500;
                     DragonslayerWardenHammer.Object_Type = 20;
                     DragonslayerWardenHammer.Quality = 100;
                     DragonslayerWardenHammer.IsTradable = false;
@@ -3174,7 +3174,7 @@ namespace DOL.GS.Items
                     PaladinDragonslayerBlade.SPD_ABS = 42;
                     PaladinDragonslayerBlade.Object_Type = 3;
                     PaladinDragonslayerBlade.Quality = 100;
-                    PaladinDragonslayerBlade.Price = 2500;
+                    PaladinDragonslayerBlade.Price = 3500;
                     PaladinDragonslayerBlade.IsTradable = false;
                     PaladinDragonslayerBlade.Weight = 25;
                     PaladinDragonslayerBlade.Bonus = 35;
@@ -3220,7 +3220,7 @@ namespace DOL.GS.Items
                     PaladinDragonslayerEdge.SPD_ABS = 42;
                     PaladinDragonslayerEdge.Object_Type = 4;
                     PaladinDragonslayerEdge.Quality = 100;
-                    PaladinDragonslayerEdge.Price = 2500;
+                    PaladinDragonslayerEdge.Price = 3500;
                     PaladinDragonslayerEdge.IsTradable = false;
                     PaladinDragonslayerEdge.Weight = 25;
                     PaladinDragonslayerEdge.Bonus = 35;
@@ -3269,7 +3269,7 @@ namespace DOL.GS.Items
                     PaladinDragonslayerMace.IsTradable = false;
                     PaladinDragonslayerMace.Weight = 25;
                     PaladinDragonslayerMace.Bonus = 35;
-                    PaladinDragonslayerMace.Price = 2500;
+                    PaladinDragonslayerMace.Price = 3500;
                     PaladinDragonslayerMace.MaxCondition = 50000;
                     PaladinDragonslayerMace.MaxDurability = 50000;
                     PaladinDragonslayerMace.Condition = 50000;
@@ -3311,7 +3311,7 @@ namespace DOL.GS.Items
                     PaladinDragonslayerGreatEdge.Type_Damage = 3;
                     PaladinDragonslayerGreatEdge.DPS_AF = 165;
                     PaladinDragonslayerGreatEdge.SPD_ABS = 56;
-                    PaladinDragonslayerGreatEdge.Price = 2500;
+                    PaladinDragonslayerGreatEdge.Price = 3500;
                     PaladinDragonslayerGreatEdge.Object_Type = 6;
                     PaladinDragonslayerGreatEdge.Quality = 100;
                     PaladinDragonslayerGreatEdge.IsTradable = false;
@@ -3356,7 +3356,7 @@ namespace DOL.GS.Items
                     PaladinDragonslayerGreatHammer.Type_Damage = 1;
                     PaladinDragonslayerGreatHammer.DPS_AF = 165;
                     PaladinDragonslayerGreatHammer.SPD_ABS = 56;
-                    PaladinDragonslayerGreatHammer.Price = 2500;
+                    PaladinDragonslayerGreatHammer.Price = 3500;
                     PaladinDragonslayerGreatHammer.Object_Type = 6;
                     PaladinDragonslayerGreatHammer.Quality = 100;
                     PaladinDragonslayerGreatHammer.IsTradable = false;
@@ -3403,7 +3403,7 @@ namespace DOL.GS.Items
                     PaladinDragonslayerGreatSword.SPD_ABS = 56;
                     PaladinDragonslayerGreatSword.Object_Type = 3;
                     PaladinDragonslayerGreatSword.Quality = 100;
-                    PaladinDragonslayerGreatSword.Price = 2500;
+                    PaladinDragonslayerGreatSword.Price = 3500;
                     PaladinDragonslayerGreatSword.IsTradable = false;
                     PaladinDragonslayerGreatSword.Weight = 25;
                     PaladinDragonslayerGreatSword.Bonus = 35;
@@ -3445,7 +3445,7 @@ namespace DOL.GS.Items
                     ScoutDragonslayerBlade.Type_Damage = 2;
                     ScoutDragonslayerBlade.DPS_AF = 165;
                     ScoutDragonslayerBlade.SPD_ABS = 42;
-                    ScoutDragonslayerBlade.Price = 2500;
+                    ScoutDragonslayerBlade.Price = 3500;
                     ScoutDragonslayerBlade.Object_Type = 3;
                     ScoutDragonslayerBlade.Quality = 100;
                     ScoutDragonslayerBlade.IsTradable = false;
@@ -3488,7 +3488,7 @@ namespace DOL.GS.Items
                     ScoutDragonslayerBow.Type_Damage = 0;
                     ScoutDragonslayerBow.DPS_AF = 165;
                     ScoutDragonslayerBow.SPD_ABS = 56;
-                    ScoutDragonslayerBow.Price = 2500;
+                    ScoutDragonslayerBow.Price = 3500;
                     ScoutDragonslayerBow.Object_Type = 9;
                     ScoutDragonslayerBow.Quality = 100;
                     ScoutDragonslayerBow.IsTradable = false;
@@ -3528,7 +3528,7 @@ namespace DOL.GS.Items
                     ScoutDragonslayerEdge.IsDropable = true;
                     ScoutDragonslayerEdge.IsPickable = true;
                     ScoutDragonslayerEdge.Type_Damage = 3;
-                    ScoutDragonslayerEdge.Price = 2500;
+                    ScoutDragonslayerEdge.Price = 3500;
                     ScoutDragonslayerEdge.DPS_AF = 165;
                     ScoutDragonslayerEdge.SPD_ABS = 42;
                     ScoutDragonslayerEdge.Object_Type = 4;
@@ -3570,7 +3570,7 @@ namespace DOL.GS.Items
                     MinstrelDragonslayerEdge.Item_Type = 10;
                     MinstrelDragonslayerEdge.Model = 3976;
                     MinstrelDragonslayerEdge.IsDropable = true;
-                    MinstrelDragonslayerEdge.Price = 2500;
+                    MinstrelDragonslayerEdge.Price = 3500;
                     MinstrelDragonslayerEdge.IsPickable = true;
                     MinstrelDragonslayerEdge.Type_Damage = 3;
                     MinstrelDragonslayerEdge.DPS_AF = 165;
@@ -3618,7 +3618,7 @@ namespace DOL.GS.Items
                     MinstrelDragonslayerBlade.Type_Damage = 2;
                     MinstrelDragonslayerBlade.DPS_AF = 165;
                     MinstrelDragonslayerBlade.SPD_ABS = 42;
-                    MinstrelDragonslayerBlade.Price = 2500;
+                    MinstrelDragonslayerBlade.Price = 3500;
                     MinstrelDragonslayerBlade.Object_Type = 3;
                     MinstrelDragonslayerBlade.Quality = 100;
                     MinstrelDragonslayerBlade.IsTradable = false;
@@ -3665,7 +3665,7 @@ namespace DOL.GS.Items
                     MinstrelDragonslayerHarp.Item_Type = 13;
                     MinstrelDragonslayerHarp.Weight = 20;
                     MinstrelDragonslayerHarp.Model = 3985;
-                    MinstrelDragonslayerHarp.Price = 2500;
+                    MinstrelDragonslayerHarp.Price = 3500;
                     MinstrelDragonslayerHarp.Bonus = 35;
                     MinstrelDragonslayerHarp.Bonus1 = 15;
                     MinstrelDragonslayerHarp.Bonus2 = 15;
@@ -3719,7 +3719,7 @@ namespace DOL.GS.Items
                     MercenaryDragonslayerLaevusMace.Object_Type = 2;
                     MercenaryDragonslayerLaevusMace.Quality = 100;
                     MercenaryDragonslayerLaevusMace.IsTradable = false;
-                    MercenaryDragonslayerLaevusMace.Price = 2500;
+                    MercenaryDragonslayerLaevusMace.Price = 3500;
                     MercenaryDragonslayerLaevusMace.Weight = 25;
                     MercenaryDragonslayerLaevusMace.Bonus = 35;
                     MercenaryDragonslayerLaevusMace.MaxCondition = 50000;
@@ -3757,7 +3757,7 @@ namespace DOL.GS.Items
                     MercenaryDragonslayerLaevusEdge.Type_Damage = 3;
                     MercenaryDragonslayerLaevusEdge.DPS_AF = 165;
                     MercenaryDragonslayerLaevusEdge.SPD_ABS = 34;
-                    MercenaryDragonslayerLaevusEdge.Price = 2500;
+                    MercenaryDragonslayerLaevusEdge.Price = 3500;
                     MercenaryDragonslayerLaevusEdge.Object_Type = 4;
                     MercenaryDragonslayerLaevusEdge.Quality = 100;
                     MercenaryDragonslayerLaevusEdge.IsTradable = false;
@@ -3800,7 +3800,7 @@ namespace DOL.GS.Items
                     MercenaryDragonslayerLaevusBlade.Type_Damage = 2;
                     MercenaryDragonslayerLaevusBlade.DPS_AF = 165;
                     MercenaryDragonslayerLaevusBlade.SPD_ABS = 40;
-                    MercenaryDragonslayerLaevusBlade.Price = 2500;
+                    MercenaryDragonslayerLaevusBlade.Price = 3500;
                     MercenaryDragonslayerLaevusBlade.Object_Type = 3;
                     MercenaryDragonslayerLaevusBlade.Quality = 100;
                     MercenaryDragonslayerLaevusBlade.IsTradable = false;
@@ -3840,7 +3840,7 @@ namespace DOL.GS.Items
                     MercenaryDragonslayerMace.Type_Damage = 1;
                     MercenaryDragonslayerMace.DPS_AF = 165;
                     MercenaryDragonslayerMace.SPD_ABS = 42;
-                    MercenaryDragonslayerMace.Price = 2500;
+                    MercenaryDragonslayerMace.Price = 3500;
                     MercenaryDragonslayerMace.Object_Type = 2;
                     MercenaryDragonslayerMace.Quality = 100;
                     MercenaryDragonslayerMace.IsTradable = false;
@@ -3879,7 +3879,7 @@ namespace DOL.GS.Items
                     MercenaryDragonslayerEdge.IsPickable = true;
                     MercenaryDragonslayerEdge.Type_Damage = 3;
                     MercenaryDragonslayerEdge.DPS_AF = 165;
-                    MercenaryDragonslayerEdge.Price = 2500;
+                    MercenaryDragonslayerEdge.Price = 3500;
                     MercenaryDragonslayerEdge.SPD_ABS = 42;
                     MercenaryDragonslayerEdge.Object_Type = 4;
                     MercenaryDragonslayerEdge.Quality = 100;
@@ -3921,7 +3921,7 @@ namespace DOL.GS.Items
                     MercenaryDragonslayerBlade.IsPickable = true;
                     MercenaryDragonslayerBlade.Type_Damage = 2;
                     MercenaryDragonslayerBlade.DPS_AF = 165;
-                    MercenaryDragonslayerBlade.Price = 2500;
+                    MercenaryDragonslayerBlade.Price = 3500;
                     MercenaryDragonslayerBlade.SPD_ABS = 42;
                     MercenaryDragonslayerBlade.Object_Type = 3;
                     MercenaryDragonslayerBlade.Quality = 100;
@@ -3961,7 +3961,7 @@ namespace DOL.GS.Items
                     InfiltratorDragonslayerBlade.IsPickable = true;
                     InfiltratorDragonslayerBlade.Type_Damage = 2;
                     InfiltratorDragonslayerBlade.DPS_AF = 165;
-                    InfiltratorDragonslayerBlade.Price = 2500;
+                    InfiltratorDragonslayerBlade.Price = 3500;
                     InfiltratorDragonslayerBlade.SPD_ABS = 42;
                     InfiltratorDragonslayerBlade.Object_Type = 3;
                     InfiltratorDragonslayerBlade.Quality = 100;
@@ -4001,7 +4001,7 @@ namespace DOL.GS.Items
                     InfiltratorDragonslayerEdge.IsPickable = true;
                     InfiltratorDragonslayerEdge.Type_Damage = 3;
                     InfiltratorDragonslayerEdge.DPS_AF = 165;
-                    InfiltratorDragonslayerEdge.Price = 2500;
+                    InfiltratorDragonslayerEdge.Price = 3500;
                     InfiltratorDragonslayerEdge.SPD_ABS = 42;
                     InfiltratorDragonslayerEdge.Object_Type = 4;
                     InfiltratorDragonslayerEdge.Quality = 100;
@@ -4046,7 +4046,7 @@ namespace DOL.GS.Items
                     InfiltratorDragonslayerLaevusBlade.DPS_AF = 165;
                     InfiltratorDragonslayerLaevusBlade.SPD_ABS = 42;
                     InfiltratorDragonslayerLaevusBlade.Object_Type = 3;
-                    InfiltratorDragonslayerLaevusBlade.Price = 2500;
+                    InfiltratorDragonslayerLaevusBlade.Price = 3500;
                     InfiltratorDragonslayerLaevusBlade.Quality = 100;
                     InfiltratorDragonslayerLaevusBlade.IsTradable = false;
                     InfiltratorDragonslayerLaevusBlade.Weight = 25;
@@ -4084,7 +4084,7 @@ namespace DOL.GS.Items
                     InfiltratorDragonslayerLaevusEdge.IsDropable = true;
                     InfiltratorDragonslayerLaevusEdge.IsPickable = true;
                     InfiltratorDragonslayerLaevusEdge.Type_Damage = 3;
-                    InfiltratorDragonslayerLaevusEdge.Price = 2500;
+                    InfiltratorDragonslayerLaevusEdge.Price = 3500;
                     InfiltratorDragonslayerLaevusEdge.DPS_AF = 165;
                     InfiltratorDragonslayerLaevusEdge.SPD_ABS = 34;
                     InfiltratorDragonslayerLaevusEdge.Object_Type = 4;
@@ -4126,7 +4126,7 @@ namespace DOL.GS.Items
                     BlademasterDragonslayerFuarBlade.IsDropable = true;
                     BlademasterDragonslayerFuarBlade.IsPickable = true;
                     BlademasterDragonslayerFuarBlade.Type_Damage = 2;
-                    BlademasterDragonslayerFuarBlade.Price = 2500;
+                    BlademasterDragonslayerFuarBlade.Price = 3500;
                     BlademasterDragonslayerFuarBlade.DPS_AF = 165;
                     BlademasterDragonslayerFuarBlade.SPD_ABS = 42;
                     BlademasterDragonslayerFuarBlade.Object_Type = 19;
@@ -4169,7 +4169,7 @@ namespace DOL.GS.Items
                     BlademasterDragonslayerFuarHammer.IsPickable = true;
                     BlademasterDragonslayerFuarHammer.Type_Damage = 1;
                     BlademasterDragonslayerFuarHammer.DPS_AF = 165;
-                    BlademasterDragonslayerFuarHammer.Price = 2500;
+                    BlademasterDragonslayerFuarHammer.Price = 3500;
                     BlademasterDragonslayerFuarHammer.SPD_ABS = 42;
                     BlademasterDragonslayerFuarHammer.Object_Type = 20;
                     BlademasterDragonslayerFuarHammer.Quality = 100;
@@ -4210,7 +4210,7 @@ namespace DOL.GS.Items
                     BlademasterDragonslayerFuarSteel.IsDropable = true;
                     BlademasterDragonslayerFuarSteel.IsPickable = true;
                     BlademasterDragonslayerFuarSteel.Type_Damage = 1;
-                    BlademasterDragonslayerFuarSteel.Price = 2500;
+                    BlademasterDragonslayerFuarSteel.Price = 3500;
                     BlademasterDragonslayerFuarSteel.DPS_AF = 165;
                     BlademasterDragonslayerFuarSteel.SPD_ABS = 42;
                     BlademasterDragonslayerFuarSteel.Object_Type = 11;
@@ -4256,7 +4256,7 @@ namespace DOL.GS.Items
                     DragonslayerBlademasterBlade.IsPickable = true;
                     DragonslayerBlademasterBlade.Type_Damage = 2;
                     DragonslayerBlademasterBlade.DPS_AF = 165;
-                    DragonslayerBlademasterBlade.Price = 2500;
+                    DragonslayerBlademasterBlade.Price = 3500;
                     DragonslayerBlademasterBlade.SPD_ABS = 42;
                     DragonslayerBlademasterBlade.Object_Type = 19;
                     DragonslayerBlademasterBlade.Quality = 100;
@@ -4301,7 +4301,7 @@ namespace DOL.GS.Items
                     DragonslayerBlademasterHammer.DPS_AF = 165;
                     DragonslayerBlademasterHammer.SPD_ABS = 40;
                     DragonslayerBlademasterHammer.Object_Type = 20;
-                    DragonslayerBlademasterHammer.Price = 2500;
+                    DragonslayerBlademasterHammer.Price = 3500;
                     DragonslayerBlademasterHammer.Quality = 100;
                     DragonslayerBlademasterHammer.IsTradable = false;
                     DragonslayerBlademasterHammer.Weight = 25;
@@ -4341,7 +4341,7 @@ namespace DOL.GS.Items
                     DragonslayerBlademasterSteel.IsDropable = true;
                     DragonslayerBlademasterSteel.IsPickable = true;
                     DragonslayerBlademasterSteel.Type_Damage = 3;
-                    DragonslayerBlademasterSteel.Price = 2500;
+                    DragonslayerBlademasterSteel.Price = 3500;
                     DragonslayerBlademasterSteel.DPS_AF = 165;
                     DragonslayerBlademasterSteel.SPD_ABS = 34;
                     DragonslayerBlademasterSteel.Object_Type = 21;
@@ -4386,7 +4386,7 @@ namespace DOL.GS.Items
                     DragonslayerChampionBlade.IsPickable = true;
                     DragonslayerChampionBlade.Type_Damage = 2;
                     DragonslayerChampionBlade.DPS_AF = 165;
-                    DragonslayerChampionBlade.Price = 2500;
+                    DragonslayerChampionBlade.Price = 3500;
                     DragonslayerChampionBlade.SPD_ABS = 42;
                     DragonslayerChampionBlade.Object_Type = 19;
                     DragonslayerChampionBlade.Quality = 100;
@@ -4428,7 +4428,7 @@ namespace DOL.GS.Items
                     DragonslayerChampionHammer.Level = 51;
                     DragonslayerChampionHammer.Item_Type = 10;
                     DragonslayerChampionHammer.Model = 3897;
-                    DragonslayerChampionHammer.Price = 2500;
+                    DragonslayerChampionHammer.Price = 3500;
                     DragonslayerChampionHammer.IsDropable = true;
                     DragonslayerChampionHammer.IsPickable = true;
                     DragonslayerChampionHammer.Type_Damage = 1;
@@ -4478,7 +4478,7 @@ namespace DOL.GS.Items
                     DragonslayerChampionSteel.IsPickable = true;
                     DragonslayerChampionSteel.Type_Damage = 3;
                     DragonslayerChampionSteel.DPS_AF = 165;
-                    DragonslayerChampionSteel.Price = 2500;
+                    DragonslayerChampionSteel.Price = 3500;
                     DragonslayerChampionSteel.SPD_ABS = 42;
                     DragonslayerChampionSteel.Object_Type = 21;
                     DragonslayerChampionSteel.Quality = 100;
@@ -4530,7 +4530,7 @@ namespace DOL.GS.Items
                     DragonslayerChampionWarblade.Quality = 100;
                     DragonslayerChampionWarblade.IsTradable = false;
                     DragonslayerChampionWarblade.Weight = 25;
-                    DragonslayerChampionWarblade.Price = 2500;
+                    DragonslayerChampionWarblade.Price = 3500;
                     DragonslayerChampionWarblade.Bonus = 35;
                     DragonslayerChampionWarblade.MaxCondition = 50000;
                     DragonslayerChampionWarblade.MaxDurability = 50000;
@@ -4577,7 +4577,7 @@ namespace DOL.GS.Items
                     DragonslayerChampionWarhammer.Quality = 100;
                     DragonslayerChampionWarhammer.IsTradable = false;
                     DragonslayerChampionWarhammer.Weight = 25;
-                    DragonslayerChampionWarhammer.Price = 2500;
+                    DragonslayerChampionWarhammer.Price = 3500;
                     DragonslayerChampionWarhammer.Bonus = 35;
                     DragonslayerChampionWarhammer.MaxCondition = 50000;
                     DragonslayerChampionWarhammer.MaxDurability = 50000;
@@ -4620,7 +4620,7 @@ namespace DOL.GS.Items
                     DragonslayerHeroBlade.DPS_AF = 165;
                     DragonslayerHeroBlade.SPD_ABS = 42;
                     DragonslayerHeroBlade.Object_Type = 19;
-                    DragonslayerHeroBlade.Price = 2500;
+                    DragonslayerHeroBlade.Price = 3500;
                     DragonslayerHeroBlade.Quality = 100;
                     DragonslayerHeroBlade.IsTradable = false;
                     DragonslayerHeroBlade.Weight = 25;
@@ -4664,7 +4664,7 @@ namespace DOL.GS.Items
                     DragonslayerHeroHammer.IsPickable = true;
                     DragonslayerHeroHammer.Type_Damage = 1;
                     DragonslayerHeroHammer.DPS_AF = 165;
-                    DragonslayerHeroHammer.Price = 2500;
+                    DragonslayerHeroHammer.Price = 3500;
                     DragonslayerHeroHammer.SPD_ABS = 42;
                     DragonslayerHeroHammer.Object_Type = 20;
                     DragonslayerHeroHammer.Quality = 100;
@@ -4712,7 +4712,7 @@ namespace DOL.GS.Items
                     DragonslayerHeroSpear.Type_Damage = 3;
                     DragonslayerHeroSpear.DPS_AF = 165;
                     DragonslayerHeroSpear.SPD_ABS = 56;
-                    DragonslayerHeroSpear.Price = 2500;
+                    DragonslayerHeroSpear.Price = 3500;
                     DragonslayerHeroSpear.Object_Type = 23;
                     DragonslayerHeroSpear.Quality = 100;
                     DragonslayerHeroSpear.IsTradable = false;
@@ -4760,7 +4760,7 @@ namespace DOL.GS.Items
                     DragonslayerHeroSteel.SPD_ABS = 42;
                     DragonslayerHeroSteel.Object_Type = 21;
                     DragonslayerHeroSteel.Quality = 100;
-                    DragonslayerHeroSteel.Price = 2500;
+                    DragonslayerHeroSteel.Price = 3500;
                     DragonslayerHeroSteel.IsTradable = false;
                     DragonslayerHeroSteel.Weight = 25;
                     DragonslayerHeroSteel.Bonus = 35;
@@ -4807,7 +4807,7 @@ namespace DOL.GS.Items
                     DragonslayerHeroWarblade.SPD_ABS = 56;
                     DragonslayerHeroWarblade.Object_Type = 22;
                     DragonslayerHeroWarblade.Quality = 100;
-                    DragonslayerHeroWarblade.Price = 2500;
+                    DragonslayerHeroWarblade.Price = 3500;
                     DragonslayerHeroWarblade.IsTradable = false;
                     DragonslayerHeroWarblade.Weight = 25;
                     DragonslayerHeroWarblade.Bonus = 35;
@@ -4854,7 +4854,7 @@ namespace DOL.GS.Items
                     DragonslayerHeroWarhammer.SPD_ABS = 56;
                     DragonslayerHeroWarhammer.Object_Type = 22;
                     DragonslayerHeroWarhammer.Quality = 100;
-                    DragonslayerHeroWarhammer.Price = 2500;
+                    DragonslayerHeroWarhammer.Price = 3500;
                     DragonslayerHeroWarhammer.IsTradable = false;
                     DragonslayerHeroWarhammer.Weight = 25;
                     DragonslayerHeroWarhammer.Bonus = 35;
@@ -4899,7 +4899,7 @@ namespace DOL.GS.Items
                     DragonslayerNightshadeBlade.Type_Damage = 2;
                     DragonslayerNightshadeBlade.DPS_AF = 165;
                     DragonslayerNightshadeBlade.SPD_ABS = 40;
-                    DragonslayerNightshadeBlade.Price = 2500;
+                    DragonslayerNightshadeBlade.Price = 3500;
                     DragonslayerNightshadeBlade.Object_Type = 19;
                     DragonslayerNightshadeBlade.Quality = 100;
                     DragonslayerNightshadeBlade.IsTradable = false;
@@ -4942,7 +4942,7 @@ namespace DOL.GS.Items
                     DragonslayerNightshadeSteel.SPD_ABS = 34;
                     DragonslayerNightshadeSteel.Object_Type = 21;
                     DragonslayerNightshadeSteel.Quality = 100;
-                    DragonslayerNightshadeSteel.Price = 2500;
+                    DragonslayerNightshadeSteel.Price = 3500;
                     DragonslayerNightshadeSteel.IsTradable = false;
                     DragonslayerNightshadeSteel.Weight = 25;
                     DragonslayerNightshadeSteel.Bonus = 35;
@@ -4987,7 +4987,7 @@ namespace DOL.GS.Items
                     DragonslayerRangerBlade.Quality = 100;
                     DragonslayerRangerBlade.IsTradable = false;
                     DragonslayerRangerBlade.Weight = 25;
-                    DragonslayerRangerBlade.Price = 2500;
+                    DragonslayerRangerBlade.Price = 3500;
                     DragonslayerRangerBlade.Bonus = 35;
                     DragonslayerRangerBlade.MaxCondition = 50000;
                     DragonslayerRangerBlade.MaxDurability = 50000;
@@ -5030,7 +5030,7 @@ namespace DOL.GS.Items
                     DragonslayerRangerSteel.Quality = 100;
                     DragonslayerRangerSteel.IsTradable = false;
                     DragonslayerRangerSteel.Weight = 25;
-                    DragonslayerRangerSteel.Price = 2500;
+                    DragonslayerRangerSteel.Price = 3500;
                     DragonslayerRangerSteel.Bonus = 35;
                     DragonslayerRangerSteel.MaxCondition = 50000;
                     DragonslayerRangerSteel.MaxDurability = 50000;
@@ -5076,7 +5076,7 @@ namespace DOL.GS.Items
                     DragonslayerRecurveBow.IsTradable = false;
                     DragonslayerRecurveBow.Weight = 25;
                     DragonslayerRecurveBow.Bonus = 35;
-                    DragonslayerRecurveBow.Price = 2500;
+                    DragonslayerRecurveBow.Price = 3500;
                     DragonslayerRecurveBow.MaxCondition = 50000;
                     DragonslayerRecurveBow.MaxDurability = 50000;
                     DragonslayerRecurveBow.Condition = 50000;
@@ -5112,7 +5112,7 @@ namespace DOL.GS.Items
                     NightshadeDragonslayerFuarBlade.Type_Damage = 2;
                     NightshadeDragonslayerFuarBlade.DPS_AF = 165;
                     NightshadeDragonslayerFuarBlade.SPD_ABS = 42;
-                    NightshadeDragonslayerFuarBlade.Price = 2500;
+                    NightshadeDragonslayerFuarBlade.Price = 3500;
                     NightshadeDragonslayerFuarBlade.Object_Type = 19;
                     NightshadeDragonslayerFuarBlade.Quality = 100;
                     NightshadeDragonslayerFuarBlade.IsTradable = false;
@@ -5156,7 +5156,7 @@ namespace DOL.GS.Items
                     NightshadeDragonslayerFuarSteel.Quality = 100;
                     NightshadeDragonslayerFuarSteel.IsTradable = false;
                     NightshadeDragonslayerFuarSteel.Weight = 25;
-                    NightshadeDragonslayerFuarSteel.Price = 2500;
+                    NightshadeDragonslayerFuarSteel.Price = 3500;
                     NightshadeDragonslayerFuarSteel.Bonus = 35;
                     NightshadeDragonslayerFuarSteel.MaxCondition = 50000;
                     NightshadeDragonslayerFuarSteel.MaxDurability = 50000;
@@ -5194,7 +5194,7 @@ namespace DOL.GS.Items
                     RangerDragonslayerFuarBlade.Type_Damage = 2;
                     RangerDragonslayerFuarBlade.DPS_AF = 165;
                     RangerDragonslayerFuarBlade.SPD_ABS = 42;
-                    RangerDragonslayerFuarBlade.Price = 2500;
+                    RangerDragonslayerFuarBlade.Price = 3500;
                     RangerDragonslayerFuarBlade.Object_Type = 19;
                     RangerDragonslayerFuarBlade.Quality = 100;
                     RangerDragonslayerFuarBlade.IsTradable = false;
@@ -5233,7 +5233,7 @@ namespace DOL.GS.Items
                     RangerDragonslayerFuarSteel.Model = 3899;
                     RangerDragonslayerFuarSteel.IsDropable = true;
                     RangerDragonslayerFuarSteel.IsPickable = true;
-                    RangerDragonslayerFuarSteel.Price = 2500;
+                    RangerDragonslayerFuarSteel.Price = 3500;
                     RangerDragonslayerFuarSteel.Type_Damage = 3;
                     RangerDragonslayerFuarSteel.DPS_AF = 165;
                     RangerDragonslayerFuarSteel.SPD_ABS = 42;
@@ -5285,7 +5285,7 @@ namespace DOL.GS.Items
                     DragonslayerBerserkerAxelh.Quality = 100;
                     DragonslayerBerserkerAxelh.IsTradable = false;
                     DragonslayerBerserkerAxelh.Weight = 25;
-                    DragonslayerBerserkerAxelh.Price = 2500;
+                    DragonslayerBerserkerAxelh.Price = 3500;
                     DragonslayerBerserkerAxelh.Bonus = 35;
                     DragonslayerBerserkerAxelh.MaxCondition = 50000;
                     DragonslayerBerserkerAxelh.MaxDurability = 50000;
@@ -5322,7 +5322,7 @@ namespace DOL.GS.Items
                     DragonslayerBerserkerAxerh.Model = 3942;
                     DragonslayerBerserkerAxerh.IsDropable = true;
                     DragonslayerBerserkerAxerh.IsPickable = true;
-                    DragonslayerBerserkerAxerh.Price = 2500;
+                    DragonslayerBerserkerAxerh.Price = 3500;
                     DragonslayerBerserkerAxerh.Type_Damage = 2;
                     DragonslayerBerserkerAxerh.DPS_AF = 165;
                     DragonslayerBerserkerAxerh.SPD_ABS = 43;
@@ -5366,7 +5366,7 @@ namespace DOL.GS.Items
                     DragonslayerBerserkerHammer.Model = 3938;
                     DragonslayerBerserkerHammer.IsDropable = true;
                     DragonslayerBerserkerHammer.IsPickable = true;
-                    DragonslayerBerserkerHammer.Price = 2500;
+                    DragonslayerBerserkerHammer.Price = 3500;
                     DragonslayerBerserkerHammer.Type_Damage = 1;
                     DragonslayerBerserkerHammer.DPS_AF = 165;
                     DragonslayerBerserkerHammer.SPD_ABS = 43;
@@ -5412,7 +5412,7 @@ namespace DOL.GS.Items
                     DragonslayerBerserkerSword.IsPickable = true;
                     DragonslayerBerserkerSword.Type_Damage = 2;
                     DragonslayerBerserkerSword.DPS_AF = 165;
-                    DragonslayerBerserkerSword.Price = 2500;
+                    DragonslayerBerserkerSword.Price = 3500;
                     DragonslayerBerserkerSword.SPD_ABS = 43;
                     DragonslayerBerserkerSword.Object_Type = 11;
                     DragonslayerBerserkerSword.Quality = 100;
@@ -5457,7 +5457,7 @@ namespace DOL.GS.Items
                     DragonslayerBerserkerTwohandedAxe.IsPickable = true;
                     DragonslayerBerserkerTwohandedAxe.Type_Damage = 2;
                     DragonslayerBerserkerTwohandedAxe.DPS_AF = 165;
-                    DragonslayerBerserkerTwohandedAxe.Price = 2500;
+                    DragonslayerBerserkerTwohandedAxe.Price = 3500;
                     DragonslayerBerserkerTwohandedAxe.SPD_ABS = 57;
                     DragonslayerBerserkerTwohandedAxe.Object_Type = 13;
                     DragonslayerBerserkerTwohandedAxe.Quality = 100;
@@ -5503,7 +5503,7 @@ namespace DOL.GS.Items
                     DragonslayerBerserkerTwohandedHammer.Type_Damage = 1;
                     DragonslayerBerserkerTwohandedHammer.DPS_AF = 165;
                     DragonslayerBerserkerTwohandedHammer.SPD_ABS = 57;
-                    DragonslayerBerserkerTwohandedHammer.Price = 2500;
+                    DragonslayerBerserkerTwohandedHammer.Price = 3500;
                     DragonslayerBerserkerTwohandedHammer.Object_Type = 12;
                     DragonslayerBerserkerTwohandedHammer.Quality = 100;
                     DragonslayerBerserkerTwohandedHammer.IsTradable = false;
@@ -5547,7 +5547,7 @@ namespace DOL.GS.Items
                     DragonslayerBerserkerTwohandedSword.IsPickable = true;
                     DragonslayerBerserkerTwohandedSword.Type_Damage = 2;
                     DragonslayerBerserkerTwohandedSword.DPS_AF = 165;
-                    DragonslayerBerserkerTwohandedSword.Price = 2500;
+                    DragonslayerBerserkerTwohandedSword.Price = 3500;
                     DragonslayerBerserkerTwohandedSword.SPD_ABS = 57;
                     DragonslayerBerserkerTwohandedSword.Object_Type = 11;
                     DragonslayerBerserkerTwohandedSword.Quality = 100;
@@ -5592,7 +5592,7 @@ namespace DOL.GS.Items
                     DragonslayerCompoundBow.IsPickable = true;
                     DragonslayerCompoundBow.Type_Damage = 0;
                     DragonslayerCompoundBow.DPS_AF = 165;
-                    DragonslayerCompoundBow.Price = 2500;
+                    DragonslayerCompoundBow.Price = 3500;
                     DragonslayerCompoundBow.SPD_ABS = 53;
                     DragonslayerCompoundBow.Object_Type = 15;
                     DragonslayerCompoundBow.Quality = 100;
@@ -5636,7 +5636,7 @@ namespace DOL.GS.Items
                     DragonslayerHunterSlashingSpear.DPS_AF = 165;
                     DragonslayerHunterSlashingSpear.SPD_ABS = 45;
                     DragonslayerHunterSlashingSpear.Object_Type = 14;
-                    DragonslayerHunterSlashingSpear.Price = 2500;
+                    DragonslayerHunterSlashingSpear.Price = 3500;
                     DragonslayerHunterSlashingSpear.Quality = 100;
                     DragonslayerHunterSlashingSpear.IsTradable = false;
                     DragonslayerHunterSlashingSpear.Weight = 25;
@@ -5676,7 +5676,7 @@ namespace DOL.GS.Items
                     DragonslayerHunterSpear.Hand = 1;
                     DragonslayerHunterSpear.Model = 3920;
                     DragonslayerHunterSpear.IsDropable = true;
-                    DragonslayerHunterSpear.Price = 2500;
+                    DragonslayerHunterSpear.Price = 3500;
                     DragonslayerHunterSpear.IsPickable = true;
                     DragonslayerHunterSpear.Type_Damage = 3;
                     DragonslayerHunterSpear.DPS_AF = 165;
@@ -5726,7 +5726,7 @@ namespace DOL.GS.Items
                     DragonslayerHunterSword.SPD_ABS = 43;
                     DragonslayerHunterSword.Object_Type = 11;
                     DragonslayerHunterSword.Quality = 100;
-                    DragonslayerHunterSword.Price = 2500;
+                    DragonslayerHunterSword.Price = 3500;
                     DragonslayerHunterSword.IsTradable = false;
                     DragonslayerHunterSword.Weight = 25;
                     DragonslayerHunterSword.Bonus = 35;
@@ -5767,7 +5767,7 @@ namespace DOL.GS.Items
                     DragonslayerHunterTwohandedSword.Type_Damage = 2;
                     DragonslayerHunterTwohandedSword.DPS_AF = 165;
                     DragonslayerHunterTwohandedSword.SPD_ABS = 57;
-                    DragonslayerHunterTwohandedSword.Price = 2500;
+                    DragonslayerHunterTwohandedSword.Price = 3500;
                     DragonslayerHunterTwohandedSword.Object_Type = 11;
                     DragonslayerHunterTwohandedSword.Quality = 100;
                     DragonslayerHunterTwohandedSword.IsTradable = false;
@@ -5809,7 +5809,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageAxe.Type_Damage = 2;
                     DragonslayerSavageAxe.DPS_AF = 165;
                     DragonslayerSavageAxe.SPD_ABS = 42;
-                    DragonslayerSavageAxe.Price = 2500;
+                    DragonslayerSavageAxe.Price = 3500;
                     DragonslayerSavageAxe.Object_Type = 13;
                     DragonslayerSavageAxe.Quality = 100;
                     DragonslayerSavageAxe.IsTradable = false;
@@ -5848,7 +5848,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageHammer.Level = 51;
                     DragonslayerSavageHammer.Item_Type = 10;
                     DragonslayerSavageHammer.Model = 3938;
-                    DragonslayerSavageHammer.Price = 2500;
+                    DragonslayerSavageHammer.Price = 3500;
                     DragonslayerSavageHammer.IsDropable = true;
                     DragonslayerSavageHammer.IsPickable = true;
                     DragonslayerSavageHammer.Type_Damage = 1;
@@ -5899,7 +5899,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageSlashingGlaiverh.SPD_ABS = 42;
                     DragonslayerSavageSlashingGlaiverh.Object_Type = 25;
                     DragonslayerSavageSlashingGlaiverh.Quality = 100;
-                    DragonslayerSavageSlashingGlaiverh.Price = 2500;
+                    DragonslayerSavageSlashingGlaiverh.Price = 3500;
                     DragonslayerSavageSlashingGlaiverh.IsTradable = false;
                     DragonslayerSavageSlashingGlaiverh.Weight = 25;
                     DragonslayerSavageSlashingGlaiverh.Bonus = 35;
@@ -5941,7 +5941,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageSlashingGlaivelh.IsPickable = true;
                     DragonslayerSavageSlashingGlaivelh.Type_Damage = 2;
                     DragonslayerSavageSlashingGlaivelh.DPS_AF = 165;
-                    DragonslayerSavageSlashingGlaivelh.Price = 2500;
+                    DragonslayerSavageSlashingGlaivelh.Price = 3500;
                     DragonslayerSavageSlashingGlaivelh.SPD_ABS = 40;
                     DragonslayerSavageSlashingGlaivelh.Object_Type = 25;
                     DragonslayerSavageSlashingGlaivelh.Quality = 100;
@@ -5985,7 +5985,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageSword.IsPickable = true;
                     DragonslayerSavageSword.Type_Damage = 2;
                     DragonslayerSavageSword.DPS_AF = 165;
-                    DragonslayerSavageSword.Price = 2500;
+                    DragonslayerSavageSword.Price = 3500;
                     DragonslayerSavageSword.SPD_ABS = 42;
                     DragonslayerSavageSword.Object_Type = 11;
                     DragonslayerSavageSword.Quality = 100;
@@ -6030,7 +6030,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageThrashingGlaiverh.Type_Damage = 3;
                     DragonslayerSavageThrashingGlaiverh.DPS_AF = 165;
                     DragonslayerSavageThrashingGlaiverh.SPD_ABS = 42;
-                    DragonslayerSavageThrashingGlaiverh.Price = 2500;
+                    DragonslayerSavageThrashingGlaiverh.Price = 3500;
                     DragonslayerSavageThrashingGlaiverh.Object_Type = 25;
                     DragonslayerSavageThrashingGlaiverh.Quality = 100;
                     DragonslayerSavageThrashingGlaiverh.IsTradable = false;
@@ -6080,7 +6080,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageThrashingGlaivelh.IsTradable = false;
                     DragonslayerSavageThrashingGlaivelh.Weight = 25;
                     DragonslayerSavageThrashingGlaivelh.Bonus = 35;
-                    DragonslayerSavageThrashingGlaivelh.Price = 2500;
+                    DragonslayerSavageThrashingGlaivelh.Price = 3500;
                     DragonslayerSavageThrashingGlaivelh.MaxCondition = 50000;
                     DragonslayerSavageThrashingGlaivelh.MaxDurability = 50000;
                     DragonslayerSavageThrashingGlaivelh.Condition = 50000;
@@ -6122,7 +6122,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageTwohandedAxe.SPD_ABS = 42;
                     DragonslayerSavageTwohandedAxe.Object_Type = 13;
                     DragonslayerSavageTwohandedAxe.Quality = 100;
-                    DragonslayerSavageTwohandedAxe.Price = 2500;
+                    DragonslayerSavageTwohandedAxe.Price = 3500;
                     DragonslayerSavageTwohandedAxe.IsTradable = false;
                     DragonslayerSavageTwohandedAxe.Weight = 25;
                     DragonslayerSavageTwohandedAxe.Bonus = 35;
@@ -6164,7 +6164,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageTwohandedHammer.IsPickable = true;
                     DragonslayerSavageTwohandedHammer.Type_Damage = 1;
                     DragonslayerSavageTwohandedHammer.DPS_AF = 165;
-                    DragonslayerSavageTwohandedHammer.Price = 2500;
+                    DragonslayerSavageTwohandedHammer.Price = 3500;
                     DragonslayerSavageTwohandedHammer.SPD_ABS = 42;
                     DragonslayerSavageTwohandedHammer.Object_Type = 12;
                     DragonslayerSavageTwohandedHammer.Quality = 100;
@@ -6210,7 +6210,7 @@ namespace DOL.GS.Items
                     DragonslayerSavageTwohandedSword.Type_Damage = 2;
                     DragonslayerSavageTwohandedSword.DPS_AF = 165;
                     DragonslayerSavageTwohandedSword.SPD_ABS = 42;
-                    DragonslayerSavageTwohandedSword.Price = 2500;
+                    DragonslayerSavageTwohandedSword.Price = 3500;
                     DragonslayerSavageTwohandedSword.Object_Type = 11;
                     DragonslayerSavageTwohandedSword.Quality = 100;
                     DragonslayerSavageTwohandedSword.IsTradable = false;
@@ -6256,7 +6256,7 @@ namespace DOL.GS.Items
                     DragonslayerShadowbladeAxe.DPS_AF = 165;
                     DragonslayerShadowbladeAxe.SPD_ABS = 40;
                     DragonslayerShadowbladeAxe.Object_Type = 17;
-                    DragonslayerShadowbladeAxe.Price = 2500;
+                    DragonslayerShadowbladeAxe.Price = 3500;
                     DragonslayerShadowbladeAxe.Quality = 100;
                     DragonslayerShadowbladeAxe.IsTradable = false;
                     DragonslayerShadowbladeAxe.Weight = 25;
@@ -6298,7 +6298,7 @@ namespace DOL.GS.Items
                     DragonslayerShadowbladeHeavyAxe.Type_Damage = 2;
                     DragonslayerShadowbladeHeavyAxe.DPS_AF = 165;
                     DragonslayerShadowbladeHeavyAxe.SPD_ABS = 57;
-                    DragonslayerShadowbladeHeavyAxe.Price = 2500;
+                    DragonslayerShadowbladeHeavyAxe.Price = 3500;
                     DragonslayerShadowbladeHeavyAxe.Object_Type = 13;
                     DragonslayerShadowbladeHeavyAxe.Quality = 100;
                     DragonslayerShadowbladeHeavyAxe.IsTradable = false;
@@ -6342,7 +6342,7 @@ namespace DOL.GS.Items
                     DragonslayerShadowbladeHeavyAxe2.SPD_ABS = 57;
                     DragonslayerShadowbladeHeavyAxe2.Object_Type = 13;
                     DragonslayerShadowbladeHeavyAxe2.Quality = 100;
-                    DragonslayerShadowbladeHeavyAxe2.Price = 2500;
+                    DragonslayerShadowbladeHeavyAxe2.Price = 3500;
                     DragonslayerShadowbladeHeavyAxe2.IsTradable = false;
                     DragonslayerShadowbladeHeavyAxe2.Weight = 25;
                     DragonslayerShadowbladeHeavyAxe2.Bonus = 35;
@@ -6384,7 +6384,7 @@ namespace DOL.GS.Items
                     DragonslayerShadowbladeHeavySword.DPS_AF = 165;
                     DragonslayerShadowbladeHeavySword.SPD_ABS = 57;
                     DragonslayerShadowbladeHeavySword.Object_Type = 11;
-                    DragonslayerShadowbladeHeavySword.Price = 2500;
+                    DragonslayerShadowbladeHeavySword.Price = 3500;
                     DragonslayerShadowbladeHeavySword.Quality = 100;
                     DragonslayerShadowbladeHeavySword.IsTradable = false;
                     DragonslayerShadowbladeHeavySword.Weight = 25;
@@ -6423,7 +6423,7 @@ namespace DOL.GS.Items
                     DragonslayerShadowbladeSword.IsDropable = true;
                     DragonslayerShadowbladeSword.IsPickable = true;
                     DragonslayerShadowbladeSword.Type_Damage = 2;
-                    DragonslayerShadowbladeSword.Price = 2500;
+                    DragonslayerShadowbladeSword.Price = 3500;
                     DragonslayerShadowbladeSword.DPS_AF = 165;
                     DragonslayerShadowbladeSword.SPD_ABS = 43;
                     DragonslayerShadowbladeSword.Object_Type = 11;
@@ -6467,7 +6467,7 @@ namespace DOL.GS.Items
                     DragonslayerSkaldAxe.Type_Damage = 2;
                     DragonslayerSkaldAxe.DPS_AF = 165;
                     DragonslayerSkaldAxe.SPD_ABS = 43;
-                    DragonslayerSkaldAxe.Price = 2500;
+                    DragonslayerSkaldAxe.Price = 3500;
                     DragonslayerSkaldAxe.Object_Type = 13;
                     DragonslayerSkaldAxe.Quality = 100;
                     DragonslayerSkaldAxe.IsTradable = false;
@@ -6511,7 +6511,7 @@ namespace DOL.GS.Items
                     DragonslayerSkaldHammer.IsDropable = true;
                     DragonslayerSkaldHammer.IsPickable = true;
                     DragonslayerSkaldHammer.Type_Damage = 1;
-                    DragonslayerSkaldHammer.Price = 2500;
+                    DragonslayerSkaldHammer.Price = 3500;
                     DragonslayerSkaldHammer.DPS_AF = 165;
                     DragonslayerSkaldHammer.SPD_ABS = 43;
                     DragonslayerSkaldHammer.Object_Type = 12;
@@ -6558,7 +6558,7 @@ namespace DOL.GS.Items
                     DragonslayerSkaldSword.IsPickable = true;
                     DragonslayerSkaldSword.Type_Damage = 2;
                     DragonslayerSkaldSword.DPS_AF = 165;
-                    DragonslayerSkaldSword.Price = 2500;
+                    DragonslayerSkaldSword.Price = 3500;
                     DragonslayerSkaldSword.SPD_ABS = 43;
                     DragonslayerSkaldSword.Object_Type = 11;
                     DragonslayerSkaldSword.Quality = 100;
@@ -6607,7 +6607,7 @@ namespace DOL.GS.Items
                     DragonslayerSkaldTwohandedAxe.DPS_AF = 165;
                     DragonslayerSkaldTwohandedAxe.SPD_ABS = 57;
                     DragonslayerSkaldTwohandedAxe.Object_Type = 13;
-                    DragonslayerSkaldTwohandedAxe.Price = 2500;
+                    DragonslayerSkaldTwohandedAxe.Price = 3500;
                     DragonslayerSkaldTwohandedAxe.Quality = 100;
                     DragonslayerSkaldTwohandedAxe.IsTradable = false;
                     DragonslayerSkaldTwohandedAxe.Weight = 25;
@@ -6650,7 +6650,7 @@ namespace DOL.GS.Items
                     DragonslayerSkaldTwohandedHammer.Model = 3922;
                     DragonslayerSkaldTwohandedHammer.IsDropable = true;
                     DragonslayerSkaldTwohandedHammer.IsPickable = true;
-                    DragonslayerSkaldTwohandedHammer.Price = 2500;
+                    DragonslayerSkaldTwohandedHammer.Price = 3500;
                     DragonslayerSkaldTwohandedHammer.Type_Damage = 1;
                     DragonslayerSkaldTwohandedHammer.DPS_AF = 165;
                     DragonslayerSkaldTwohandedHammer.SPD_ABS = 57;
@@ -6699,7 +6699,7 @@ namespace DOL.GS.Items
                     DragonslayerSkaldTwohandedSword.IsPickable = true;
                     DragonslayerSkaldTwohandedSword.Type_Damage = 2;
                     DragonslayerSkaldTwohandedSword.DPS_AF = 165;
-                    DragonslayerSkaldTwohandedSword.Price = 2500;
+                    DragonslayerSkaldTwohandedSword.Price = 3500;
                     DragonslayerSkaldTwohandedSword.SPD_ABS = 57;
                     DragonslayerSkaldTwohandedSword.Object_Type = 11;
                     DragonslayerSkaldTwohandedSword.Quality = 100;
@@ -6746,7 +6746,7 @@ namespace DOL.GS.Items
                     DragonslayerThaneAxe.Type_Damage = 2;
                     DragonslayerThaneAxe.DPS_AF = 165;
                     DragonslayerThaneAxe.SPD_ABS = 43;
-                    DragonslayerThaneAxe.Price = 2500;
+                    DragonslayerThaneAxe.Price = 3500;
                     DragonslayerThaneAxe.Object_Type = 13;
                     DragonslayerThaneAxe.Quality = 100;
                     DragonslayerThaneAxe.IsTradable = false;
@@ -6793,7 +6793,7 @@ namespace DOL.GS.Items
                     DragonslayerThaneHammer.IsPickable = true;
                     DragonslayerThaneHammer.Type_Damage = 1;
                     DragonslayerThaneHammer.DPS_AF = 165;
-                    DragonslayerThaneHammer.Price = 2500;
+                    DragonslayerThaneHammer.Price = 3500;
                     DragonslayerThaneHammer.SPD_ABS = 43;
                     DragonslayerThaneHammer.Object_Type = 12;
                     DragonslayerThaneHammer.Quality = 100;
@@ -6840,7 +6840,7 @@ namespace DOL.GS.Items
                     DragonslayerThaneSword.IsDropable = true;
                     DragonslayerThaneSword.IsPickable = true;
                     DragonslayerThaneSword.Type_Damage = 2;
-                    DragonslayerThaneSword.Price = 2500;
+                    DragonslayerThaneSword.Price = 3500;
                     DragonslayerThaneSword.DPS_AF = 165;
                     DragonslayerThaneSword.SPD_ABS = 43;
                     DragonslayerThaneSword.Object_Type = 11;
@@ -6893,7 +6893,7 @@ namespace DOL.GS.Items
                     DragonslayerThaneTwohandedAxe.SPD_ABS = 57;
                     DragonslayerThaneTwohandedAxe.Object_Type = 13;
                     DragonslayerThaneTwohandedAxe.Quality = 100;
-                    DragonslayerThaneTwohandedAxe.Price = 2500;
+                    DragonslayerThaneTwohandedAxe.Price = 3500;
                     DragonslayerThaneTwohandedAxe.IsTradable = false;
                     DragonslayerThaneTwohandedAxe.Weight = 25;
                     DragonslayerThaneTwohandedAxe.Bonus = 35;
@@ -6944,7 +6944,7 @@ namespace DOL.GS.Items
                     DragonslayerThaneTwohandedHammer.Quality = 100;
                     DragonslayerThaneTwohandedHammer.IsTradable = false;
                     DragonslayerThaneTwohandedHammer.Weight = 25;
-                    DragonslayerThaneTwohandedHammer.Price = 2500;
+                    DragonslayerThaneTwohandedHammer.Price = 3500;
                     DragonslayerThaneTwohandedHammer.Bonus = 35;
                     DragonslayerThaneTwohandedHammer.MaxCondition = 50000;
                     DragonslayerThaneTwohandedHammer.MaxDurability = 50000;
@@ -6991,7 +6991,7 @@ namespace DOL.GS.Items
                     DragonslayerThaneTwohandedSword.SPD_ABS = 57;
                     DragonslayerThaneTwohandedSword.Object_Type = 11;
                     DragonslayerThaneTwohandedSword.Quality = 100;
-                    DragonslayerThaneTwohandedSword.Price = 2500;
+                    DragonslayerThaneTwohandedSword.Price = 3500;
                     DragonslayerThaneTwohandedSword.IsTradable = false;
                     DragonslayerThaneTwohandedSword.Weight = 25;
                     DragonslayerThaneTwohandedSword.Bonus = 35;

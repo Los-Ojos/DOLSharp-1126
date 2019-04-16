@@ -71,9 +71,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
-                //price = gold * 10000 + silver * 100 + copper;
-                item.Price = 0 * 10000 + Silver * 100 + 0;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -117,7 +115,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -169,7 +167,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -213,7 +211,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -265,7 +263,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -317,7 +315,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -370,7 +368,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 11431;
@@ -414,7 +412,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -458,7 +456,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -515,7 +513,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -567,7 +565,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -611,7 +609,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.Charges = 100;
@@ -665,7 +663,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -709,7 +707,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -754,7 +752,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -798,7 +796,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -850,7 +848,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -905,7 +903,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -949,7 +947,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1003,7 +1001,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -1059,7 +1057,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -1103,7 +1101,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1147,7 +1145,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1191,7 +1189,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1244,7 +1242,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 11431;
@@ -1288,7 +1286,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1341,7 +1339,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1394,7 +1392,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -1439,7 +1437,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1492,7 +1490,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -1537,7 +1535,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1592,7 +1590,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -1645,7 +1643,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32170;
@@ -1695,7 +1693,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1748,7 +1746,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -1799,7 +1797,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -1843,7 +1841,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1888,7 +1886,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1933,7 +1931,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -1987,7 +1985,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32170;
@@ -2036,7 +2034,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2089,7 +2087,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -2142,7 +2140,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -2195,7 +2193,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -2240,7 +2238,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2285,7 +2283,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2340,7 +2338,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -2393,7 +2391,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32170;
@@ -2457,7 +2455,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -2502,7 +2500,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2547,7 +2545,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2592,7 +2590,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2637,7 +2635,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2694,7 +2692,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -2751,7 +2749,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -2796,7 +2794,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2841,7 +2839,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2895,7 +2893,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -2940,7 +2938,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -2997,7 +2995,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -3042,7 +3040,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3099,7 +3097,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -3144,7 +3142,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3193,7 +3191,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3238,7 +3236,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3283,7 +3281,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3328,7 +3326,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3385,7 +3383,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -3430,7 +3428,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3484,7 +3482,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -3541,7 +3539,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -3586,7 +3584,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3638,7 +3636,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.Charges = 100;
@@ -3685,7 +3683,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3740,7 +3738,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32170;
@@ -3790,7 +3788,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3835,7 +3833,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3880,7 +3878,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3925,7 +3923,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -3982,7 +3980,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -4027,7 +4025,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4072,7 +4070,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4126,7 +4124,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -4183,7 +4181,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -4240,7 +4238,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -4285,7 +4283,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4342,7 +4340,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 32306;
@@ -4387,7 +4385,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4432,7 +4430,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4471,7 +4469,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4509,7 +4507,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4551,7 +4549,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4595,7 +4593,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4639,7 +4637,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4681,7 +4679,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4725,7 +4723,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 11431;
@@ -4768,7 +4766,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4810,7 +4808,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -4854,7 +4852,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 11431;
@@ -4917,7 +4915,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.Charges = 100;
@@ -4962,7 +4960,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -5007,7 +5005,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14358;
@@ -5065,7 +5063,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -5122,7 +5120,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -5168,7 +5166,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.Charges = 100;
@@ -5216,7 +5214,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.Charges = 100;
@@ -5320,7 +5318,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 GameServer.Database.AddObject(item);
@@ -5370,7 +5368,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -5425,7 +5423,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 GameServer.Database.AddObject(item);
@@ -5475,7 +5473,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -5526,7 +5524,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;
@@ -5582,7 +5580,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 GameServer.Database.AddObject(item);
@@ -5632,7 +5630,7 @@ namespace DOL.GS.Items
                 item.IsDropable = true;
                 item.CanDropAsLoot = true;
                 item.IsTradable = true;
-                int Silver = 50;
+                item.Price = 5000;
                 item.MaxCount = 1;
                 item.PackSize = 1;
                 item.ProcSpellID = 14276;

@@ -65,7 +65,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -112,7 +113,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -160,7 +162,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -207,7 +210,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -255,7 +259,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllArcherySkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -302,7 +307,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -349,7 +355,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -396,7 +403,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -443,7 +451,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -491,7 +500,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -539,7 +549,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.AllFocusLevels;
                 item.Bonus5Type = (int)eProperty.AllMagicSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -588,7 +599,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -636,7 +648,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -684,7 +697,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -731,7 +745,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -779,7 +794,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -827,7 +843,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -879,7 +896,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -927,7 +945,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -975,7 +994,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1023,7 +1043,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1071,7 +1092,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1119,7 +1141,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1167,7 +1190,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1215,7 +1239,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1263,7 +1288,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1311,7 +1337,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.AllFocusLevels;
                 item.Bonus5Type = (int)eProperty.AllMagicSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1360,7 +1387,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllArcherySkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1407,7 +1435,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1458,7 +1487,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1505,7 +1535,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1553,7 +1584,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1601,7 +1633,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1648,7 +1681,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1696,7 +1730,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1744,7 +1779,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1792,7 +1828,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllArcherySkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1839,7 +1876,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1887,7 +1925,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1935,7 +1974,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -1983,7 +2023,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.AllFocusLevels;
                 item.Bonus5Type = (int)eProperty.AllMagicSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
@@ -2033,7 +2074,8 @@ namespace DOL.GS.Items
                 item.Bonus4Type = (int)eProperty.ArmorFactor;
                 item.Bonus5Type = (int)eProperty.AllMeleeWeaponSkills;
                 item.IsPickable = true;
-                item.IsDropable = true;
+                item.IsDropable = true; 
+			    item.Price = 5000;
                 
                 item.MaxCount = 1;
                 item.PackSize = 1;
